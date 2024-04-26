@@ -1,2 +1,2 @@
 # TimeTable / 시간표
-이 프로그램은 시간표를 작성하기 위한 것이다.
+You can use this program to create a timetable for your department.
